@@ -1,7 +1,7 @@
 # CS302-AI
-CS302(AI) Lab Assignment 1
+CS302(AI) Lab Assignment 4
 
-8 puzzle solution
+TSP Solver
 
 Created by:
 Noorul Hasan Ali 201851078,
