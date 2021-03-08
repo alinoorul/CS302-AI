@@ -1,6 +1,7 @@
 # CS302-AI
 CS302(AI) Lab Assignments
 Currently this repository contains Lab Assignments 1,4 and 6.
+Each assignment has its own branch.
 
 Created by: 
 Noorul Hasan Ali 201851078
