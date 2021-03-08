@@ -1,10 +1,11 @@
 # CS302-AI
-CS302(AI) Lab Assignments
-Currently this repository contains Lab Assignments 1,4 and 6.
+CS302(AI) Lab Assignment 1
 
-Created by: 
-Noorul Hasan Ali 201851078
-Parmanand Patidar 201851080
-Shiv Lal Jat 201851121
-Nishant Choudhary 201851073
+8 puzzle solution
+
+Created by:\n
+Noorul Hasan Ali 201851078\n
+Parmanand Patidar 201851080\n
+Shiv Lal Jat 201851121\n
+Nishant Choudhary 201851073\n
 Deepak Bethamalla 201851033
