@@ -1,0 +1,35 @@
+[[A B C D], [E F], []]
+
+[[E F], [A B C D]]
+
+Goal: [[A E B C D], [F], []]
+
+h(state): {
+	let p = list of blocks which are misplaced in a pile wrt to goal
+	let t = position of block in pile (1 for top, n for bottom)
+	h=len(p)
+	
+
+	for i in goal.piles:
+		for j in i.reverse():
+			if(j in p):
+				final_list.append(j)
+	for i in final_list:
+		h=h-	//block which is on top adds max sum to h
+	return h
+	
+}
+
+h(state): {
+	let p = list of blocks which are misplaced in a pile wrt to goal
+	let t = position of block in pile (1 for top, n for bottom)
+	h=0
+	for i in p:
+		h=h+i.height
+	return h
+	
+}
+
+ADMISSABILITY:
+
+This will be less than cost be
